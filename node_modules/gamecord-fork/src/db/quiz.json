@@ -1,0 +1,259 @@
+[
+    {
+      "question": "What color is the sky?",
+      "answers": [
+        "blue"
+      ]
+    },
+    {
+      "question": "How many letters are there in the alphabet?",
+      "answers": [
+        "26",
+        "twenty-six",
+        "twenty six",
+        "twentysix"
+      ]
+    },
+    {
+      "question": "What is the scientific name of a butterfly?",
+      "answers": [
+        "Apis",
+        "Coleoptera",
+        "Formicidae",
+        "Rhopalocera"
+      ]
+    },
+    {
+      "question": "How hot is the surface of the sun?",
+      "answers": [
+        "1,233 K",
+        "5,778 K",
+        "12,130 K",
+        "101,300 K"
+      ]
+    },
+    {
+      "question": "Who are the actors in The Internship?",
+      "answers": [
+        "Ben Stiller, Jonah Hill",
+        "Courteney Cox, Matt LeBlanc",
+        "Kaley Cuoco, Jim Parsons",
+        "Vince Vaughn, Owen Wilson"
+      ]
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "answers": [
+        "Berlin",
+        "Buenos Aires",
+        "Madrid",
+        "San Juan"
+      ]
+    },
+    {
+      "question": "What are the school colors of the University of Texas at Austin?",
+      "answers": [
+        "Black, Red",
+        "Blue, Orange",
+        "White, Burnt Orange",
+        "White, Old gold, Gold"
+      ]
+    },
+    {
+      "question": "What is 70 degrees Fahrenheit in Celsius?",
+      "answers": [
+        "18.8889",
+        "20",
+        "21.1111",
+        "158"
+      ]
+    },
+    {
+      "question": "When was Mahatma Gandhi born?",
+      "answers": [
+        "October 2, 1869",
+        "December 15, 1872",
+        "July 18, 1918",
+        "January 15, 1929"
+      ]
+    },
+    {
+      "question": "How far is the moon from Earth?",
+      "answers": [
+        "7,918 miles (12,742 km)",
+        "86,881 miles (139,822 km)",
+        "238,400 miles (384,400 km)",
+        "35,980,000 miles (57,910,000 km)"
+      ]
+    },
+    {
+      "question": "What is 65 times 52?",
+      "answers": [
+        "117",
+        "3120",
+        "3380",
+        "3520"
+      ]
+    },
+    {
+      "question": "How tall is Mount Everest?",
+      "answers": [
+        "6,683 ft (2,037 m)",
+        "7,918 ft (2,413 m)",
+        "19,341 ft (5,895 m)",
+        "29,029 ft (8,847 m)"
+      ]
+    },
+    {
+      "question": "When did The Avengers come out?",
+      "answers": [
+        "May 2, 2008",
+        "May 4, 2012",
+        "May 3, 2013",
+        "April 4, 2014"
+      ]
+    },
+    {
+      "question": "What is 48,879 in hexidecimal?",
+      "answers": [
+        "0x18C1",
+        "0xBEEF",
+        "0xDEAD",
+        "0x12D591"
+      ]
+    },
+    {
+      "question": "What is 48,879 in hexidecimal?",
+      "answers": [
+        "0x18C1"
+      ]
+    },
+    {
+      "question": "What year did the Titanic sink in the Atlantic Ocean on 15 April, on its maiden voyage from Southampton?",
+      "answers": [
+        "1912"
+      ]
+    },
+    {
+      "question": "What is the title of the first ever Carry On film made and released in 1958?",
+      "answers": [
+        "Carry on Sergeant"
+      ]
+    },
+    {
+      "question": "What is the name of the biggest technology company in South Korea?",
+      "answers": [
+        "Samsung"
+      ]
+    },
+    {
+      "question": "Which singer fronted the 1970s’ pop group Showaddywaddy?",
+      "answers": [
+        "Dave Bartram"
+      ]
+    },
+    {
+      "question": "Which now famous TV chef started cooking at the age of eight in his parents’ pub, ‘The Cricketers’, in Clavering, Essex?",
+      "answers": [
+        "Jamie Oliver"
+      ]
+    },
+    {
+      "question": "Which Dutch darts player won the 2012 BDO World Championship at the Lakeside Country Club, Frimley Green on 15 January?",
+      "answers": [
+        "Christian Kist"
+      ]
+    },
+    {
+      "question": "Which metal was discovered by Hans Christian Oersted in 1825?",
+      "answers": [
+        "Aluminium"
+      ]
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "answers": [
+        "Lisbon"
+      ]
+    },
+    {
+      "question": "How many breaths does the human body take daily?",
+      "answers": [
+        "20,000 daily"
+      ]
+    },
+    {
+      "question": "Who was Prime Minister of Great Britain from 1841 to 1846?",
+      "answers": [
+        "Robert Peel"
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answers": [
+        "ag",
+        "Ag"
+      ]
+    },
+    {
+      "question": "Who invented Cat’s Eyes in 1934 to improve road safety?",
+      "answers": [
+        "Percy Shaw"
+      ]
+    },
+    {
+      "question": "What is the world’s smallest bird?",
+      "answers": [
+        "Bee Hummingbird"
+      ]
+    },
+    {
+      "question": "Who played ‘Bodie’ and ‘Doyle’ in The Professionals?",
+      "answers": [
+        "Lewis Collins and Martin Shaw"
+      ]
+    },
+    {
+      "question": "What is the doll, Barbie’s, full name?",
+      "answers": [
+        "Barbara Millicent Roberts"
+      ]
+    },
+    {
+      "question": "What does Paul Hunn hold the record for, which registered at 118.1 decibels?",
+      "answers": [
+        "The loudest burp"
+      ]
+    },
+    {
+      "question": "What did Al Capone’s business card state his occupation was",
+      "answers": [
+        "A used furniture salesman"
+      ]
+    },
+    {
+      "question": "What is the lifespan of a dragonfly?",
+      "answers": [
+        "24",
+        "24 hours"
+      ]
+    },
+    {
+      "question": "Which year was the first Tonka truck made – 1945, 1947 or 1949?",
+      "answers": [
+        "1947"
+      ]
+    },
+    {
+      "question": "Who invented the tin can for preserving food in 1810?",
+      "answers": [
+        "Peter Durand"
+      ]
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "answers": [
+        "bankkok"
+      ]
+    }
+  ]
