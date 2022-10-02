@@ -509,7 +509,7 @@ helpMessage.createButtonCollector(user => user.clicker.user.id == message.author
   } else if (button.id == '2') {
     embed.setColor("#f5bc67")
     embed.setTitle('\<a:genel:890696107074662440> Genel Komutları')
-    embed.setDescription(`\`${prefix}\`**avatar**\nKişinin Avatarını Gönderir.\n\n\`${prefix}\`**sunucuavatar**\nSunucunun Avatarını Gönderir.\n\n\`${prefix}\`**bilgi**\n Etiketlenen Kişi Hakkında Bilgi Verir\n\n\`${prefix}\`**istatistik**\nBot İle İlgili İstatistikleri Gönderir\n\n\`${prefix}\`**sunucu-istatistik**\nSunucunuz İle İlgili İstatistikleri Gönderir`)
+    embed.setDescription(`\`${prefix}\`**avatar**\nKişinin Avatarını Gönderir.\n\n\`${prefix}\`**sunucuavatar**\nSunucunun Avatarını Gönderir.\n\n\`${prefix}\`**bilgi**\n Etiketlenen Kişi Hakkında Bilgi Verir\n\n\`${prefix}\`**istatistik**\nBot İle İlgili İstatistikleri Gönderir\n\n\`${prefix}\`**sunucu-istatistik**\nSunucunuz İle İlgili İstatistikleri Gönderir\n\n\`${prefix}\`**hava-durumu**\nİsmini yazdığının şehrin hava durumunu gösterir.`)
 
     helpMessage.edit(embed, {buttons: [new MessageButton().setStyle('blurple').setLabel('🔙').setID('1'), new MessageButton().setStyle('green').setLabel('Genel').setID('2'),new MessageButton().setStyle('blurple').setLabel('Yetkili').setID('3'),new MessageButton().setStyle('blurple').setLabel('Eğlence').setID('4'), buttonDelete]})
 
